@@ -1,0 +1,47 @@
+commit e6a732b6a930ec6d7a17ad520f99adfb03fd8852
+Author: arroncroft <arroncroft@hotmail.com>
+Date:   Fri Oct 26 19:24:56 2018 -0400
+
+    finished project
+
+commit 2858c5f004ad5f5d396fa8018986aecceb7ca695
+Author: arroncroft <arroncroft@hotmail.com>
+Date:   Fri Oct 26 19:00:32 2018 -0400
+
+    finished 3.5
+
+commit 06d73fa420c013be7512fe1f7e0d4ff01fde5ca7
+Author: arroncroft <arroncroft@hotmail.com>
+Date:   Thu Oct 25 22:18:11 2018 -0400
+
+    finished 3.4
+
+commit 5c1f0466ad3bcc2d2b3b1717297692078917fb16
+Author: arroncroft <arroncroft@hotmail.com>
+Date:   Thu Oct 25 22:14:39 2018 -0400
+
+    finished 3.3
+
+commit a99ce675d25e802ead071b5b76bfd522ad7ec820
+Author: arroncroft <arroncroft@hotmail.com>
+Date:   Thu Oct 25 21:47:19 2018 -0400
+
+    added routes, finished section 2
+
+commit 52644df141d29347dab59ae1c0066f2553ab03a7
+Author: arroncroft <arroncroft@hotmail.com>
+Date:   Thu Oct 25 21:44:18 2018 -0400
+
+    fixed package.json
+
+commit aece0b4aee21b88adef9bd9c584d49b7298ff7dd
+Author: arroncroft <arroncroft@hotmail.com>
+Date:   Thu Oct 25 21:43:08 2018 -0400
+
+    fixed untracked files
+
+commit 58facfea888209568416fe6881065fa3e779c817
+Author: arroncroft <arroncroft@hotmail.com>
+Date:   Thu Oct 25 21:34:45 2018 -0400
+
+    created a new Node.js app
