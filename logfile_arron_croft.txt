@@ -1,3 +1,33 @@
+commit 11094a15b2871905ab3a195f5a8d86dd0428e219
+Author: arroncroft <arroncroft@hotmail.com>
+Date:   Mon Nov 5 20:07:02 2018 -0500
+
+    finished project
+
+commit 70a5a29230853cbfa97e868d4176b695a8bd7ba0
+Author: arroncroft <arroncroft@hotmail.com>
+Date:   Mon Nov 5 19:59:45 2018 -0500
+
+    finished 4.6
+
+commit 0b1cf9acbf74a7b4ae8c371ea77dbdd301133d2e
+Author: arroncroft <arroncroft@hotmail.com>
+Date:   Fri Nov 2 23:10:45 2018 -0400
+
+    finished 4.5
+
+commit 4f76a1a8746187642c5a7671d839465deef9fa00
+Author: arroncroft <arroncroft@hotmail.com>
+Date:   Fri Nov 2 22:58:16 2018 -0400
+
+    finished 4.4
+
+commit a121e08e72b30c4b875a58a109cb8d611d8d3743
+Author: arroncroft <arroncroft@hotmail.com>
+Date:   Fri Nov 2 22:25:23 2018 -0400
+
+    finished 4.2
+
 commit e6a732b6a930ec6d7a17ad520f99adfb03fd8852
 Author: arroncroft <arroncroft@hotmail.com>
 Date:   Fri Oct 26 19:24:56 2018 -0400
